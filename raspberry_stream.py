@@ -5,7 +5,7 @@ from picamera import PiCamera
 from time import sleep
 
 # IP address of your PC
-server_ip = 'YOUR_PC_IP'
+server_ip = '192.168.2.1'
 server_port = 8000
 
 # Establish socket connection
